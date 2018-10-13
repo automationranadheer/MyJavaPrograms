@@ -1,5 +1,3 @@
-package rana;
-
 import java.util.Scanner;
 
 public class Amgstrong 
